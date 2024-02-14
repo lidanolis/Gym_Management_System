@@ -1,0 +1,20 @@
+0001~11/07/2022~15:00-16:00~HIIT~eamon~justin~incomplete~null~null~50~paid
+0002~11/05/2022~14:00-15:00~LISS~careen~jer~incomplete~null~null~50~unpaid
+0003~11/07/2022~15:00-16:00~WEIGHT~haha~raymond~incomplete~null~null~50~unpaid
+0004~11/07/2022~12:00-13:00~HIIT~jermain~justin~incomplete~null~null~50~unpaid
+0005~11/06/2022~13:00-14:00~LISS~jermain~justin~incomplete~null~null~50~unpaid
+0006~11/05/2022~12:00-13:00~WEIGHT~jermain~justin~incomplete~null~null~50~unpaid
+0007~11/06/2022~12:00-13:00~HIIT~eamon~raymond~incomplete~null~null~50~unpaid
+0008~11/06/2022~12:00-13:00~HIIT~eamon~justin~complete~make thi bigger~checking~50~paid
+0011~11/06/2022~12:00-13:00~LISS~eamon~jer~incomplete~null~null~50~unpaid
+0012~11/06/2022~15:00-16:00~LISS~eamon~jer~incomplete~null~null~50~unpaid
+0013~11/06/2022~13:00-14:00~HIIT~eamon~jer~incomplete~null~null~50~unpaid
+0014~05/12/2022~12:00-13:00~HIIT~eamon~justin~incomplete~null~null~50~unpaid
+0015~12/05/2022~12:00-13:00~HIIT~eamon~justin~incomplete~null~null~50~unpaid
+0016~11/06/2022~16:00-17:00~HIIT~eamon~justin~incomplete~null~null~50~unpaid
+0019~05/12/2022~15:00-16:00~HIIT~eamon~justin~incomplete~null~null~50~unpaid
+0024~05/11/2022~13:00-14:00~HIIT~eamon~justin~incomplete~null~null~50~unpaid
+0025~05/11/2022~16:00-17:00~HIIT~eamon~justin~incomplete~null~null~50~unpaid
+0026~05/11/2022~12:00-13:00~HIIT~eamon~justin~complete~changed~null~50~paid
+0028~05/12/2022~14:00-15:00~HIIT~eamon~justin~incomplete~null~null~50~unpaid
+0029~05/12/2022~16:00-17:00~LISS~careen~justin~incomplete~null~null~50~unpaid

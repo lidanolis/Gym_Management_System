@@ -1,0 +1,72 @@
+  Session ID:0001
+-------------------------------------
+         GYm.com        
+   No 00000 Address Line One 
+   Address Line 02 SRI LANKA 
+   www.facebook.com/GYm 
+        +0198844331      
+-------------------------------------
+Customer: eamon
+Trainer: justin
+ROUTINE: HIIT
+DATE: 11/07/2022
+TIME: 15:00-16:00
+STATUS: incomplete
+Price: 50
+-------------------------------------
+Amount Paid: 100
+-------------------------------------
+Change: 50.00
+-------------------------------------
+*************************************
+       THANK YOU COME AGAIN            
+*************************************
+   CONTACT: contact@GYm.com       
+Session ID:0008
+-------------------------------------
+         GYm.com        
+   No 00000 Address Line One 
+   Address Line 02 SRI LANKA 
+   www.facebook.com/GYm 
+        +0198844331      
+-------------------------------------
+Customer: eamon
+Trainer: justin
+ROUTINE: HIIT
+DATE: 11/06/2022
+TIME: 12:00-13:00
+STATUS: complete
+Price: 50
+-------------------------------------
+Amount Paid: 100
+-------------------------------------
+Change: 50.00
+-------------------------------------
+*************************************
+       THANK YOU COME AGAIN            
+*************************************
+   CONTACT: contact@GYm.com       
+Session ID:0026
+-------------------------------------
+         GYm.com        
+   No 00000 Address Line One 
+   Address Line 02 SRI LANKA 
+   www.facebook.com/GYm 
+        +0198844331      
+-------------------------------------
+Customer: eamon
+Trainer: justin
+ROUTINE: HIIT
+DATE: 05/11/2022
+TIME: 12:00-13:00
+STATUS: complete
+Price: 50
+-------------------------------------
+Amount Paid: 100
+-------------------------------------
+Change: 50.00
+-------------------------------------
+*************************************
+       THANK YOU COME AGAIN            
+*************************************
+   CONTACT: contact@GYm.com       
